@@ -12,7 +12,7 @@ Mobile OTP Login Pro for Magento 2 offers rapid and easy client login using a ce
 * Price= $149
   
 # Compatibility with Magento Versions
-Magento 2.4.X (CE, EE, ECE)
+Magento 2.2.X to 2.4.6 (CE, EE, ECE)
 
 # Installing Via Composer
 
