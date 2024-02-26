@@ -49,6 +49,29 @@ Specify project dependencies using a JSON file & leave everything to Composer.
 
 ![enable-mobile-login-pro](https://github.com/patelanny/magento-2-mobile-otp-login-pro/assets/121279820/cfb6826f-5d52-4abb-9a7f-8007cadcb799)
 
+# Magento 2 Mobile OTP Login Extension [PRO]
+
+1. Register, log in, and Reset your Password using your Mobile Number.
+
+2. The user can log in with OTP and Password Both.
+
+3. Reset Password using Mobile Number and Email.
+
+4. Easily Set OTP String Type, String Length, and Expire Time.
+
+5. Customize OTP Messages as Required.
+
+6. Any SMS API can be Integrated on Request.
+
+7. Also Support Email Notifications.
+
+8. Secure Login with reCAPTCHA.
+
+9. Mobile Number OTP Login supported on Magento Default Page.
+
+10. Ensure a smooth login process by testing SMS API. 
+
+11. Improve Customer Experience with Faster Login.
 
 # Support
 Write to us at our <a href="https://magecomp.com/support/">Support Portal</a> for queries about our Magento 2 extensions or services.
