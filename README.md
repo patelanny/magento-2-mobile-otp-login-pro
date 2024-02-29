@@ -49,7 +49,7 @@ Specify project dependencies using a JSON file & leave everything to Composer.
 
 ![enable-mobile-login-pro](https://github.com/patelanny/magento-2-mobile-otp-login-pro/assets/121279820/cfb6826f-5d52-4abb-9a7f-8007cadcb799)
 
-# Magento 2 Mobile OTP Login Extension [PRO]
+# Benefits Magento 2 Mobile OTP Login Extension [PRO]
 
 1. Register, log in, and Reset your Password using your Mobile Number.
 
